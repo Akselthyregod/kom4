@@ -11,6 +11,7 @@
         <module name="Enemy" />
         <module name="Common" />
         <module name="Core" />
+        <module name="Collision" />
       </profile>
     </annotationProcessing>
   </component>
