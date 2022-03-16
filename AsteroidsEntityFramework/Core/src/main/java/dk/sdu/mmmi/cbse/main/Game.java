@@ -21,7 +21,7 @@ import dk.sdu.mmmi.cbse.playersystem.PlayerPlugin;
 
 import java.util.ArrayList;
 import java.util.Collection;
-import java.util.List;
+import java.ugtil.List;
 
 public class Game
         implements ApplicationListener {
